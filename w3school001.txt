@@ -1,5 +1,5 @@
 https://www.w3school.com.cn/tags/index.asp HTML 属性参考手册
-//align 对齐  
+//align 对齐  verdana 宋体
 
 HTML 标题（Heading）是通过 <h1> - <h6> 等标签进行定义的。
 段落元素由 p 标签定义。
@@ -9,3 +9,14 @@ HTML 标签对大小写不敏感：<P> 等同于 <p>。许多网站都使用大�
 PS：默认情况下，HTML 会自动地在块级元素前后添加一个额外的空行，比如段落、标题元素前后。
 <!--这是一段注释哦。注释不会在浏览器中显示。-->
 当显示页面时，浏览器会移除源代码中多余的空格和空行。所有连续的空格或空行都会被算作一个空格。
+<br />	插入单个折行（换行）。
+style 属性淘汰了“旧的” bgcolor 属性。
+This text contains
+<sup>superscript</sup>
+pre 标签很适合显示计算机代码。
+<acronym title="World Wide Web">WWW</acronym>
+<ins>十二</ins>
+9 种物理样式，包括粗体（bold）、斜体（italic）、等宽（monospaced）、下划线（underlined）、删除线（strikethrough）、放大（larger）、缩小（smaller）、上标（superscripted）和下标（subscripted）
+
+https://segmentfault.com/ 思否
+https://stackoverflow.com/ 国外回答最佳
