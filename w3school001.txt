@@ -17,6 +17,5 @@ pre 标签很适合显示计算机代码。
 <acronym title="World Wide Web">WWW</acronym>
 <ins>十二</ins>
 9 种物理样式，包括粗体（bold）、斜体（italic）、等宽（monospaced）、下划线（underlined）、删除线（strikethrough）、放大（larger）、缩小（smaller）、上标（superscripted）和下标（subscripted）
-
-https://segmentfault.com/ 思否
-https://stackoverflow.com/ 国外回答最佳
+对缩写进行标记能够为浏览器、翻译系统以及搜索引擎提供有用的信息。
+HTML 计算机代码元素
