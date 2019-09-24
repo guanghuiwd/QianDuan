@@ -11,3 +11,8 @@ JavaScript 能够改变 HTML 样式 (CSS)。
 
 把脚本置于 <body> 元素的底部，可改善显示速度，因为脚本编译会拖慢显示。
 
+JavaScript 显示方案:
+使用 window.alert() 写入警告框
+使用 document.write() 写入 HTML 输出
+使用 innerHTML 写入 HTML 元素
+使用 console.log() 写入浏览器控制台
