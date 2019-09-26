@@ -21,3 +21,10 @@ JavaScript 对大小写敏感
 所有 JavaScript 标识符对大小写敏感。
 
 双斜杠 // 或 /* 与 */  之间的代码被视为注释。
+在 JavaScript 中，首字符必须是字母、下划线（-）或美元符号（$）。
+连串的字符可以是字母、数字、下划线或美元符号。
+JavaScript 使用 Unicode 字符集。
+JavaScript 程序员倾向于使用以小写字母开头的驼峰大小写：
+var person = "Bill Gates", carName = "porsche", price = 15000;
+
+JavaScript 从左向右计算表达式。不同的次序会产生不同的结果。
